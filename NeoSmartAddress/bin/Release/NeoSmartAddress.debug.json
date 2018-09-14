@@ -1,0 +1,18 @@
+{
+    "avm":
+    {
+        "name":"NeoSmartAddress",
+        "hash":"BCE01F677C1D066D7A8E6EC9228EC8E3"
+    },
+    "compiler":
+    {
+        "name":"neon.exe",
+        "version":"1.0.0.0"
+    },
+    "files":
+    [
+    ],
+    "map":
+    [
+    ]
+}

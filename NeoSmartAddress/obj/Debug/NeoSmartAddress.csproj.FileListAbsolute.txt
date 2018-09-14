@@ -1,0 +1,7 @@
+C:\projects\NeoSmartAddress\NeoSmartAddress\bin\Debug\NeoSmartAddress.dll
+C:\projects\NeoSmartAddress\NeoSmartAddress\bin\Debug\NeoSmartAddress.pdb
+C:\projects\NeoSmartAddress\NeoSmartAddress\bin\Debug\Neo.SmartContract.Framework.dll
+C:\projects\NeoSmartAddress\NeoSmartAddress\obj\Debug\NeoSmartAddress.csproj.CoreCompileInputs.cache
+C:\projects\NeoSmartAddress\NeoSmartAddress\obj\Debug\NeoSmartAddress.csproj.CopyComplete
+C:\projects\NeoSmartAddress\NeoSmartAddress\obj\Debug\NeoSmartAddress.dll
+C:\projects\NeoSmartAddress\NeoSmartAddress\obj\Debug\NeoSmartAddress.pdb
