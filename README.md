@@ -1,4 +1,4 @@
-![alt text](https://github.com/abalu/NeoSmartAddress/blob/master/img/smartAddress.PNG)
+![smartAddressLogo](https://github.com/abalu/NeoSmartAddress/blob/master/img/smartAddress.PNG)
 
 # NeoSmartAddress
 Give your NEO-Blockchain public-address a desired alias with this SmartContract
