@@ -20,6 +20,26 @@ Of course, it also carries risks and has some downsides:
 Evolution steps:
 We could probably think of extending this Smart Contract to provide more ability for restrictions so that one could decide over the wallets that are allowed to get back the public Address for the given address.   
 
+## Invokation
+
+Create an alias
+testinvoke contractScriptHash create ['alias', 'publicKey']
+
+Get publicKey of alias
+testinvoke contractScriptHash read ['alias']
+
+Update your alias
+testinvoke contractScriptHash update ['alias','newAlias']
+
+Delete you alias
+testinvoke contractScriptHash delete ['newAlias']
+
+Check if alias is Free
+testinvoke contractScriptHash isFree ['someAlias']
+
+
+## Full tutorial
+
 I have wrote an step-by-step guide to start writing Smart Contracts on the NEO Blockchain. <br/>
 You can find it in the Wiki of this Repository - here https://github.com/abalu/NeoSmartAddress/wiki <br/>
 My goal is to gather everything that will possibly drive you mad and hold you back from easy start developing.<br/>
