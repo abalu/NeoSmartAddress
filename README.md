@@ -24,6 +24,8 @@ We could probably think of extending this Smart Contract to provide more ability
 The Contract class is this one:
 https://github.com/abalu/NeoSmartAddress/blob/master/NeoSmartAddress/NeoSmartAdress.cs
 
+During the deployment of the Smart-Contract you will get a `contractScriptHash` that you can use to invoke the Smart-Contract on the NEO Blockchain like this: <br/>
+
 Create an alias <br/>
 `testinvoke contractScriptHash create ['alias', 'publicKey']`
 
