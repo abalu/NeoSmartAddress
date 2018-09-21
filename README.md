@@ -21,6 +21,8 @@ Evolution steps:
 We could probably think of extending this Smart Contract to provide more ability for restrictions so that one could decide over the wallets that are allowed to get back the public Address for the given address.   
 
 ## Invokation
+The Contract class is this one:
+https://github.com/abalu/NeoSmartAddress/blob/master/NeoSmartAddress/NeoSmartAdress.cs
 
 Create an alias <br/>
 `testinvoke contractScriptHash create ['alias', 'publicKey']`
