@@ -22,19 +22,19 @@ We could probably think of extending this Smart Contract to provide more ability
 
 ## Invokation
 
-Create an alias
+Create an alias <br/>
 `testinvoke contractScriptHash create ['alias', 'publicKey']`
 
-Get publicKey of alias
+Get publicKey of alias<br/>
 `testinvoke contractScriptHash read ['alias']`
 
-Update your alias
+Update your alias<br/>
 `testinvoke contractScriptHash update ['alias','newAlias']`
 
-Delete you alias
+Delete you alias<br/>
 `testinvoke contractScriptHash delete ['newAlias']`
 
-Check if alias is Free
+Check if alias is Free<br/>
 `testinvoke contractScriptHash isFree ['someAlias']`
 
 
