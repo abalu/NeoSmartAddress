@@ -34,7 +34,7 @@ Update your alias<br/>
 Delete you alias<br/>
 `testinvoke contractScriptHash delete ['newAlias']`
 
-Check if alias is Free<br/>
+Check if alias is free<br/>
 `testinvoke contractScriptHash isFree ['someAlias']`
 
 
